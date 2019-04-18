@@ -1,3 +1,6 @@
+Using https://deckofcardsapi.com, on https://codesandbox.io/ build an app which will deal a hand of 5 cards and display them. W'll use this as a starting point during your interview, and add additional features, such as drawing draw additional cards from the same deck, or dealing hands of 5 to additional players.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

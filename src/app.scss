@@ -1,0 +1,23 @@
+@import './styles/reset.css';
+@import './styles/variables.scss';
+@import './styles/mixins.scss';
+
+body {
+  padding: 30px 30px 40px 30px;
+  min-width: 320px;
+  * {
+    font-family: $global-font;
+  }
+  h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+  }
+  button {
+    &:focus {outline:0;}
+  }
+}
+
+@import './styles/cardGame.scss';
+@import './styles/player.scss';
+@import './styles/card.scss';

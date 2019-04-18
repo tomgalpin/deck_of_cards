@@ -1,0 +1,30 @@
+.player {
+  border: 1px solid $gray;
+  margin: 20px;
+  padding: 20px;
+  .name_container {
+    margin-bottom: 20px;
+    p {
+      font-size: 20px;
+      font-weight: bold;
+    }
+  }
+  .cards_container {
+    width: 122px;
+    margin: 0 auto;
+    ol {
+      @include flex-horizontal;
+    }
+  }
+  @media only screen and (min-width: 575px) {
+    .cards_container {
+      width: 60%;
+    }
+  }
+
+  @media only screen and (min-width: 800px) {
+    .cards_container {
+      width: 80%;
+    }
+  }
+}

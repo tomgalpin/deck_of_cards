@@ -1,0 +1,10 @@
+/*
+  MIXINS
+*/
+
+@mixin flex-horizontal {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
