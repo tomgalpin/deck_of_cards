@@ -1,6 +1,6 @@
 {
   "name": "deck_of_cards",
-  "homepage": "https://tomgalpin.github.io/cards-react-practice-app/",
+  "homepage": "https://tomgalpin.github.io/deck_of_cards/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
