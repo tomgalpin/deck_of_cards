@@ -14,15 +14,7 @@ class CardGame extends React.Component {
         {
           "name": "Tom",
           "cards": []
-        },
-        {
-          "name": "Jenny",
-          "cards": []
-        },
-        {
-          "name": "Gary",
-          "cards": []
-        },
+        }
       ],
     };
     this.handleClick = this.handleClick.bind(this);
