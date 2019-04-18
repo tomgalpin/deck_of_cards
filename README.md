@@ -2,6 +2,7 @@
 A simple App using React and an API
 
 ## Deploy
+- Live @:  https://tomgalpin.github.io/deck_of_cards/
   - From:  https://github.com/gitname/react-gh-pages
 
 ## Areas of Improvement:
